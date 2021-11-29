@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iXRenPvYrGuCW+77jiMD0U6YLdkVXNP5IMNmq/r2k2bMwvuNYZRJEftvKSCEtJLRCsDj5HZb33K9eLs2jhj8dQ==",
+  "dgSpecHash": "BzmFs0eHEsrsA+JF6cbAHoKkzHIxe6N4uqqVMmmlpqtQ6sfucUdeIJxTTZdtwbW4zkZG03ALY2WW2n0T3fFl+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\AluraApi\\AluraApi.csproj",
+  "projectFilePath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\ApiCshap\\AluraApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rf201\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rf201\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

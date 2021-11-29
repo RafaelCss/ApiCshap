@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\AluraApi\\AluraApi.csproj",
+      "projectUniqueName": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\ApiCshap\\AluraApi.csproj",
       "projectName": "AluraApi",
-      "projectPath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\AluraApi\\AluraApi.csproj",
+      "projectPath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\ApiCshap\\AluraApi.csproj",
       "packagesPath": "C:\\Users\\rf201\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\AluraApi\\obj\\",
+      "outputPath": "C:\\Users\\rf201\\OneDrive\\Área de Trabalho\\ApiCshap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rf201\\AppData\\Roaming\\NuGet\\NuGet.Config",
